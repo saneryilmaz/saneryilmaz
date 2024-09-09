@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Saner Yılmaz
 
-<!--
-**saneryilmaz/saneryilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
 
-Here are some ideas to get you started:
+Merhaba, ben **Saner Yılmaz**. 2007 yılında Tekirdağ'da doğdum ve şu an burada yaşıyorum. Lise 3. sınıfa kadar Tekirdağ Süleymanpaşa Zübeyde Hanım Mesleki Teknik Anadolu Lisesi'nde bilişim bölümü öğrencisiydim. Ancak okulun kariyerime odaklanmamı engellediğini düşündüğüm için okulu bıraktım ve tam anlamıyla yazılım kariyerime odaklanmaya karar verdim. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Deneyimlerim
+
+- **Node.js:** 5 yıllık deneyimim var ve birçok modülü iyi biliyorum. 🛠️
+- **Python:** 3 yıllık deneyimim bulunuyor. 🐍
+- **C++, C#, PHP, React, HTML, CSS:** Şu an bu teknolojileri öğrenme aşamasındayım ve temel bilgileri anlamak için çalışıyorum. 📚
+
+### Hedeflerim
+
+NPM üzerinde insanların işine yarayacak modüller geliştirmeyi planlıyorum. Yeteneklerimi daha da geliştirmek ve yazılım alanında başarılı projelere imza atmak istiyorum. 🌟
+
+## İletişim
+
+Eğer benimle iletişime geçmek isterseniz, **saner9053@gmail.com** üzerinden bana ulaşabilirsiniz. 📩
+
+---
+
+Kariyer yolculuğumda bana destek olan herkese teşekkür ederim. Yazılım dünyasında yeni projelerde görüşmek üzere! 👨‍💻
+
