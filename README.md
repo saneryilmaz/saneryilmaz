@@ -18,6 +18,8 @@ NPM üzerinde insanların işine yarayacak modüller geliştirmeyi planlıyorum.
 
 Eğer benimle iletişime geçmek isterseniz, **saner9053@gmail.com** üzerinden bana ulaşabilirsiniz. 📩
 
+![](https://komarev.com/ghpvc/?username=saneryilmaz)
+
 ---
 
 Kariyer yolculuğumda bana destek olan herkese teşekkür ederim. Yazılım dünyasında yeni projelerde görüşmek üzere! 👨‍💻
