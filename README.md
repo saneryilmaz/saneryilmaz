@@ -2,7 +2,7 @@
 
 ## Hakkımda
 
-Merhaba, ben **Saner Yılmaz**. 2007 yılında Tekirdağ'da doğdum ve şu an burada yaşıyorum. Lise 3. sınıfa kadar Tekirdağ Süleymanpaşa Zübeyde Hanım Mesleki Teknik Anadolu Lisesi'nde bilişim bölümü öğrencisiydim. Ancak okulun kariyerime odaklanmamı engellediğini düşündüğüm için okulu bıraktım ve tam anlamıyla yazılım kariyerime odaklanmaya karar verdim. 🚀
+Merhaba, ben **Saner Yılmaz**. 2007 yılında Tekirdağ'da doğdum ve şu an Tekirdağ'da yaşıyorum. Lise 3. sınıfa kadar Tekirdağ Süleymanpaşa Zübeyde Hanım Mesleki Teknik Anadolu Lisesi'nde bilişim bölümü öğrencisiydim. Ancak okulun kariyerime odaklanmamı engellediğini düşündüğüm için okulu bıraktım ve tam anlamıyla yazılım kariyerime odaklanmaya karar verdim. 🚀
 
 ### Deneyimlerim
 
